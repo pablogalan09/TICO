@@ -1,4 +1,4 @@
-"Estado","Nivel_de_rentabilidad","Producto","Unidades_vendidas","beneficio_total_num"
+"estado","nivel","producto","unidades","beneficio_total"
 "RENTABLE","ALTA","Chaqueta","15,00 €","975"
 "RENTABLE","ALTA","Camiseta ","56,00 €","3.08"
 "REVISAR","BAJA","Medias","8,00 €","32"
@@ -23,3 +23,4 @@
 "RENTABLE","MEDIA","Mancuernas ajustables","14,00 €","266"
 "RENTABLE","MEDIA","Gafas deportivas","8,00 €","208"
 "RENTABLE","BAJA","Kit de higiene","18,00 €","108"
+
